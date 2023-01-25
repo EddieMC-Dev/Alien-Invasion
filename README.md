@@ -22,3 +22,11 @@ Back to Menu caso queira retornar ao menu principal.
     <img src="https://github.com/EddieMC-Dev/Alien-Invasion/blob/main/imagens%20de%20exibi%C3%A7%C3%A3o/high%20score%20do%20menu.PNG?raw=true">
 </div>
 
+## Gameplay 
+Temos as naves representando as vidas do jogador, temos o level, a pontuação mais alta e a pontuação atual. A frota de aliens vai descendo
+lentamente e o jogador deve atirar em cada alien para passar de nível. A cada nível o jogo fica mais rápido e os aliens cada mais difíceis de
+acertar, porém sua pontuação aumenta cada vez mais.
+<div>
+    <img src="https://github.com/EddieMC-Dev/Alien-Invasion/blob/main/imagens%20de%20exibi%C3%A7%C3%A3o/gameplay%201.PNG?raw=true">
+</div>
+

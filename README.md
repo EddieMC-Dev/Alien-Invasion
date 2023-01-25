@@ -11,5 +11,5 @@ e as suas estruturas fundamentais, além de disponibilizar 3 projetos para o lei
 
 ## Menu do jogo
 <div align="middle">
-    <img scr=>
+    <img scr="">
 </div>

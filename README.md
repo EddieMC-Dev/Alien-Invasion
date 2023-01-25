@@ -10,6 +10,15 @@ e as suas estruturas fundamentais, além de disponibilizar 3 projetos para o lei
 </div>
 
 ## Menu do jogo
+O menu é bem simples e completamente funcional.
 <div align="middle">
-    <img scr="">
+    <img src="https://github.com/EddieMC-Dev/Alien-Invasion/blob/main/imagens%20de%20exibi%C3%A7%C3%A3o/menu.PNG?raw=true">
 </div>
+
+## High Score do menu
+O botão High Score leva o jogador para uma janela sua pontuação mais alta é exibida, sendo que essa área possui o botão
+Back to Menu caso queira retornar ao menu principal.
+<div>
+    <img src="">
+</div>
+

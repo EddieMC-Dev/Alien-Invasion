@@ -24,13 +24,18 @@ Back to Menu caso queira retornar ao menu principal.
 
 ## Gameplay 
 Temos as naves representando as vidas do jogador, temos o level, a pontuação mais alta e a pontuação atual. A frota de aliens vai descendo
-lentamente e o jogador deve atirar em cada alien para passar de nível. A cada nível o jogo fica mais rápido e os aliens cada mais difíceis de
+lentamente e o jogador deve atirar em cada alien para passar de nível. A cada nível o jogo fica mais rápido e os aliens cada vez mais difíceis de
 acertar, porém sua pontuação aumenta cada vez mais.
 <div>
     <img src="https://github.com/EddieMC-Dev/Alien-Invasion/blob/main/imagens%20de%20exibi%C3%A7%C3%A3o/gameplay%201.PNG?raw=true">
 </div>
 <div>
-    <img src="">
+    <img src="https://github.com/EddieMC-Dev/Alien-Invasion/blob/main/imagens%20de%20exibi%C3%A7%C3%A3o/gameplay%202.PNG?raw=true">
 </div>
 Vale ressaltar que os atiros da nave, as mortes ou as colisões dos aliens com a nave possuem efeitos sonoros, foram tais
 adquiridos pelo site <a href="https://www.salamisound.com/pt/">salamisound.com</a> que me ajudou fornecendo os melhores sons para o jogo.
+
+## Ferramentas usadas
+https://www.salamisound.com/pt/
+https://www.amazon.com.br/Curso-Intensivo-Python-Introdu%C3%A7%C3%A3o-Programa%C3%A7%C3%A3o/dp/8575225030
+https://www.pygame.org/docs/

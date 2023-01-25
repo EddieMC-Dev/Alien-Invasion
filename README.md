@@ -36,6 +36,6 @@ Vale ressaltar que os atiros da nave, as mortes ou as colisões dos aliens com a
 adquiridos pelo site <a href="https://www.salamisound.com/pt/">salamisound.com</a> que me ajudou fornecendo os melhores sons para o jogo.
 
 ## Ferramentas usadas
-https://www.salamisound.com/pt/
-https://www.amazon.com.br/Curso-Intensivo-Python-Introdu%C3%A7%C3%A3o-Programa%C3%A7%C3%A3o/dp/8575225030
-https://www.pygame.org/docs/
+- https://www.salamisound.com/pt/
+- https://www.amazon.com.br/Curso-Intensivo-Python-Introdu%C3%A7%C3%A3o-Programa%C3%A7%C3%A3o/dp/8575225030
+- https://www.pygame.org/docs/

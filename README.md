@@ -29,4 +29,8 @@ acertar, porém sua pontuação aumenta cada vez mais.
 <div>
     <img src="https://github.com/EddieMC-Dev/Alien-Invasion/blob/main/imagens%20de%20exibi%C3%A7%C3%A3o/gameplay%201.PNG?raw=true">
 </div>
-
+<div>
+    <img src="">
+</div>
+Vale ressaltar que os atiros da nave, as mortes ou as colisões dos aliens com a nave possuem efeitos sonoros, foram tais
+adquiridos pelo site <a href="https://www.salamisound.com/pt/">salamisound.com</a> que me ajudou fornecendo os melhores sons para o jogo.

@@ -16,9 +16,9 @@ O menu é bem simples e completamente funcional.
 </div>
 
 ## High Score do menu
-O botão High Score leva o jogador para uma janela sua pontuação mais alta é exibida, sendo que essa área possui o botão
+O botão High Score leva o jogador para uma janela onde sua pontuação mais alta é exibida, sendo que essa área possui o botão
 Back to Menu caso queira retornar ao menu principal.
 <div>
-    <img src="">
+    <img src="https://github.com/EddieMC-Dev/Alien-Invasion/blob/main/imagens%20de%20exibi%C3%A7%C3%A3o/high%20score%20do%20menu.PNG?raw=true">
 </div>
 
